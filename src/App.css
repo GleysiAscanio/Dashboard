@@ -39,6 +39,6 @@
   background: var(--glass);
   border-radius: 2rem;
   gap: 16px;
-  grid-template-columns: 11rem auto 20rem;
+  grid-template-columns: 12rem auto 20rem;
   overflow: hidden;
 }
