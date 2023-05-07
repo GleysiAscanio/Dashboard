@@ -41,4 +41,5 @@
   gap: 16px;
   grid-template-columns: 12rem auto 20rem;
   overflow: hidden;
+  gap: 10px;
 }

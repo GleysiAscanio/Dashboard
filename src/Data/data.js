@@ -134,3 +134,31 @@ import {
       },
     }
   }
+
+  //Table
+export const tableData = [
+  {
+    name:"Lasania Chiken Fri",
+    id:18978424,
+    date:"2 March 2022",
+    status:"Approved"
+  },
+  {
+    name:"Big Baza Bang ",
+    id: 18908424,
+    date: "2 March 2022",
+    status:"Pending",
+  },
+  {
+    name:"Mouth Freshner",
+    id:18908428,
+    date:"2 March 2022",
+    status:"Approved",
+  },
+  {
+    name:"Cupcake",
+    id:18908421,
+    date:"2 March 2022",
+    status:"Delivered",
+  },
+]
