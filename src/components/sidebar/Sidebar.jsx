@@ -12,7 +12,7 @@ const Sidebar = () => {
         <div className="sidebar">
             <div className="logo">
                 <img src={Logo} alt="Logo_Shop"/>
-                <span>Shop <span>Anywhere</span></span>
+                <span>Fashion <span>Shop</span></span>
             </div>
             <div className="menu">
                 {sidebarData.map((element) => 
