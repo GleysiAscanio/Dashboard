@@ -4,7 +4,9 @@ Este Dashboard es realizado con el fin visualizar data importante de nuestros ne
 
 ## Diseño Responsive
 
-![phone](.\src\imgs\Phone.png)
+![phone](./src/imgs/Phone.png)
+![phone](./src/imgs/Phone2.png)
+![phone](./src/imgs/Phone3.png)
 
 ## Instalación
 
